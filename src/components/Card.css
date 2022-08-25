@@ -1,0 +1,19 @@
+.card {
+    margin: 50px;
+    border:solid 1px white;
+}
+
+.imgProfil {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.global-card {
+        display: flex;
+    justify-content: center;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
+.textColor {
+    color: white;
+}
